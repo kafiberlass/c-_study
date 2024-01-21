@@ -1,0 +1,3 @@
+C:/Users/sound/CLionProjects/homework_c++/cmake-build-debug/CMakeFiles/homework_c__.dir
+C:/Users/sound/CLionProjects/homework_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sound/CLionProjects/homework_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

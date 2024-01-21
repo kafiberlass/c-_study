@@ -1,0 +1,10 @@
+# ninja log v5
+500	582	7275570712677843	homework_c__.exe	92604acc9435370f
+1	720	7270266234956240	CMakeFiles/homework_c__.dir/main.cpp.obj	d7c43dcee148c5d7
+2	162	7275570839525128	build.ninja	42c1232a337f79d4
+0	408	7275570386262167	CMakeFiles/homework_c__.dir/ex1.cpp.obj	c881ae1310694a01
+0	499	7275570711876910	CMakeFiles/homework_c__.dir/ex2.cpp.obj	9d1ee21782c0a693
+13	906	7270273728980487	CMakeFiles/homework_c__.dir/ex3.cpp.obj	75583c266eaf0b48
+3	160	7275570839525128	build.ninja	42c1232a337f79d4
+1	521	7275570845007356	CMakeFiles/homework_c__.dir/ex3.cpp.obj	75583c266eaf0b48
+521	607	7275570845854264	homework_c__.exe	3fa0a6b7456c59a8
